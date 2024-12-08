@@ -81,9 +81,3 @@ In addition to having specific reasons to choose three-tier architecture (descri
 * Placing a NAT Gateway in the public subnet allows private instances to securely access the internet for updates or API calls while keeping them protected from inbound internet traffic.
 
 To summarize, this cloud infrastructure with the help of internal components and described architectural decisions prioritizes scalability, performance, fault tolerance, and security. By practicing how to create architectural diagram, any cloud professional has a great opportunity to upskill in ability to present the cloud infrastructure, select right services and components, understand purpose of each and interactions between them, as well as interpret reasons behind particular architectural decision.
-
-
-
-
-
-
